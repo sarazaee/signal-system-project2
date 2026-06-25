@@ -46,5 +46,5 @@ To execute this computer vision and OCR pipeline locally, ensure your environmen
 
 ### Execution Instructions
 1. Clone this repository to your workstation:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/License-Plate-OCR-MATLAB.git](https://github.com/YOUR_USERNAME/License-Plate-OCR-MATLAB.git)
+```bash
+git clone [https://github.com/sarazaee/signal-system-project2.git](https://github.com/sarazaee/signal-system-project2.git)
